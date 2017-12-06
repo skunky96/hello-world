@@ -1,0 +1,10 @@
+public class box{
+    
+    private int b,a;
+    
+    public box(){
+        this.b=5;
+        this.a=4;
+        }
+        
+      
